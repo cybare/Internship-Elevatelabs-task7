@@ -50,7 +50,7 @@ List of suspicious extensions found and removed (if any)
 
 7) Video DownloadHelper
 
-image
+![Extensions](Extensions.png)
 
 #### Extensions Removed:
 
