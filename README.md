@@ -1,4 +1,4 @@
-# Internship-Elevatelabs-task7\
+# Internship-Elevatelabs-task7
 
 ## Task 7 :
 
